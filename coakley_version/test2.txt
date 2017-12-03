@@ -1,0 +1,6 @@
+2 The man ate
+5 The man SITS
+1 The cat ate
+777 This doesn’t overlap
+
+The

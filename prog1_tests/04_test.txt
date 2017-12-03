@@ -1,0 +1,15 @@
+20 The ROOT of root is root
+15 The ROOT of twentyfive is five
+30 The ROOT beer problem is funny
+10 The ROOT sentences make no sense
+5 A test should also split on the actual root
+6 cats appear a lot in my input
+7 dogs should appear more
+8 Woman as subject could replace the man
+9 I am just branching a lot on the root
+11 Now I am having difficulty making a tie
+12 Now we try harder
+99 Now a split occurs
+150 Now this is special
+
+The

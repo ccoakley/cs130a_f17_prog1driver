@@ -1,0 +1,5 @@
+1 The man sat
+2 The man ate
+3 The cat sits
+
+The man

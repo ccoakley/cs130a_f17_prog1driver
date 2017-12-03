@@ -1,0 +1,5 @@
+20 The man sits
+10 The man ate
+30 The cat sits
+
+The man

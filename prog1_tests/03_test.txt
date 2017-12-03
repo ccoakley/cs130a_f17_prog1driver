@@ -1,0 +1,9 @@
+20 The man sits
+10 The man ate
+30 The cat sits
+15 The man sits down
+17 The man sits down on a ball
+13 The man sits down on a chair
+12 The man sits again
+
+The man
