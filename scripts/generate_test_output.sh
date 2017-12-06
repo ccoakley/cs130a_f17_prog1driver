@@ -8,8 +8,9 @@ files=$(ls $test_input_dir)
 
 for file in $files; do
   echo ${file}
-  index=$(echo file | cut -d'_' -f1)
+  index=$(echo ${file} | cut -d'_' -f1)
   echo ${index}
   outfile=${test_output_dir}out_${file}
   echo ${outfile}
+  cat ${test_input_dir}${file} | ${prog} > ${outfile}
 done
